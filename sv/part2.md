@@ -104,5 +104,5 @@ ett beslut och när du väl har gjort det kan du inte byta.
 Att skapa en ny kö är också associerad med ett visst prestanda- och
 resursstraff. Det finns helt enkelt ingen perfekt lösning på problemet.
 
-Ytterligare läsning i det här ämnet kan hittas i till exempel Firefox
+Ytterligare läsning om HTTP Pipelining kan hittas i till exempel Firefox
 ärendehanteringssystem Bugzilla, specifikt [Bugzilla 264354](https://bugzilla.mozilla.org/show_bug.cgi?id=264354).
